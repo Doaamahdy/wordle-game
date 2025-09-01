@@ -1,6 +1,6 @@
 # Wordle Game
 
-![Screenshot](screenshots\Screenshot1.png)
+![Screenshot](screenshots/Screenshot1.png)
 
 A simple Wordle clone built with React, TypeScript, Vite, and TailwindCSS.
 
